@@ -1,4 +1,4 @@
-## NextJS
+## React+Vite
 
 ### Install
 
